@@ -1,0 +1,6 @@
+[submodule "IART_Proj1"]
+	path = IART_Proj1
+	url = https://github.com/Ca-moes/IART_Proj1
+[submodule "IART_Proj2"]
+	path = IART_Proj2
+	url = https://github.com/Ca-moes/IART_Proj2
