@@ -6,7 +6,7 @@
 [***Course Page***](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459487)
 
 Este repositório contém:
-- Projetos - made with [Filipe](https://github.com/filiperecharte) and [Gonçalo]()
+- Projetos - made with [Filipe](https://github.com/filiperecharte) and [Gonçalo](https://github.com/skdGT)
 - Slides
 
 ## Grades
